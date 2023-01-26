@@ -1,0 +1,10 @@
+C:\Users\zklim\source\repos\Aplikacja3.0\bin\Debug\Aplikacja3.0.exe.config
+C:\Users\zklim\source\repos\Aplikacja3.0\bin\Debug\Aplikacja3.0.exe
+C:\Users\zklim\source\repos\Aplikacja3.0\bin\Debug\Aplikacja3.0.pdb
+C:\Users\zklim\source\repos\Aplikacja3.0\obj\Debug\Aplikacja3.0.csproj.AssemblyReference.cache
+C:\Users\zklim\source\repos\Aplikacja3.0\obj\Debug\Aplikacja3._0.Calculator.resources
+C:\Users\zklim\source\repos\Aplikacja3.0\obj\Debug\Aplikacja3._0.Properties.Resources.resources
+C:\Users\zklim\source\repos\Aplikacja3.0\obj\Debug\Aplikacja3.0.csproj.GenerateResource.cache
+C:\Users\zklim\source\repos\Aplikacja3.0\obj\Debug\Aplikacja3.0.csproj.CoreCompileInputs.cache
+C:\Users\zklim\source\repos\Aplikacja3.0\obj\Debug\Aplikacja3.0.exe
+C:\Users\zklim\source\repos\Aplikacja3.0\obj\Debug\Aplikacja3.0.pdb

@@ -1,0 +1,10 @@
+C:\Users\zklim\source\repos\Aplikacja1\bin\Debug\Aplikacja1.exe.config
+C:\Users\zklim\source\repos\Aplikacja1\bin\Debug\Aplikacja1.exe
+C:\Users\zklim\source\repos\Aplikacja1\bin\Debug\Aplikacja1.pdb
+C:\Users\zklim\source\repos\Aplikacja1\obj\Debug\Aplikacja1.csproj.AssemblyReference.cache
+C:\Users\zklim\source\repos\Aplikacja1\obj\Debug\Aplikacja1.Form1.resources
+C:\Users\zklim\source\repos\Aplikacja1\obj\Debug\Aplikacja1.Properties.Resources.resources
+C:\Users\zklim\source\repos\Aplikacja1\obj\Debug\Aplikacja1.csproj.GenerateResource.cache
+C:\Users\zklim\source\repos\Aplikacja1\obj\Debug\Aplikacja1.csproj.CoreCompileInputs.cache
+C:\Users\zklim\source\repos\Aplikacja1\obj\Debug\Aplikacja1.exe
+C:\Users\zklim\source\repos\Aplikacja1\obj\Debug\Aplikacja1.pdb
